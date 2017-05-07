@@ -2,6 +2,8 @@ class  X
 {
 public static void main(String arg[])
 {
- System.out.println("hello2”+”navneet");
+public void check(){
+ 
+ return "Hello Navneet";
 }
 }
